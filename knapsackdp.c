@@ -48,4 +48,5 @@ void main()
             printf(" %d\t", a[i][j]);
         }
     }
+    printf("\nthe maxvalue is %d\n",a[n][m]);
 }
